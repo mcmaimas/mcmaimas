@@ -1,6 +1,6 @@
 # Hello 👋 Welcome to my page
 
-## My Main Gig: Rasgo
+## My Main Gig: [Rasgo](https://www.rasgoml.com/)
 
 ## My Current Nighttime Hustle: TBD
 
