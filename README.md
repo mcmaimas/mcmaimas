@@ -2,10 +2,11 @@
 
 ## My Main Gig: Rasgo
 
-## My Nighttime Hustle: [Fonbnk](https://www.fonbnk.com)
-  - Fonbnk is a project based around  
-  - Blog Post: https://www.fonbnk.com/blog/fonbnk-a-mobile-internet-access-solution-that-will-revolutionize-the-african-digital-economy
-  - Techstars participation: https://www.techstars.com/newsroom/techstars-and-western-union-2021-accelerator-class-globalization-of-money
+## My Current Nighttime Hustle: TBD
+
+## My Former Nighttime Hustle: [Fonbnk](https://www.fonbnk.com)
+  - https://www.linkedin.com/company/fonbnk/
+  - https://www.itnewsafrica.com/2022/03/fonbnk-raises-3-5-million-in-seed-funding-to-aid-underbanked-across-africa/
  
  
  ## My Favorite Fun Project:
