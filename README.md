@@ -9,11 +9,8 @@
 - Also, I wanted a way to group similar AI generated images together, and attach the prompt to that image for easy reference
 
 ## My Former Side Project: [Fonbnk](https://www.fonbnk.com)
-- 
-  - https://www.linkedin.com/company/fonbnk/
-  - https://www.itnewsafrica.com/2022/03/fonbnk-raises-3-5-million-in-seed-funding-to-aid-underbanked-across-africa/
- 
- 
+- Fonbnk is a company trying to become the default exchange in Africa for converting prepaid mobile airtime to crypto and vice versa. At least, that was it's goal when I left the project a few years ago.
+  
  ## Another Fun Project:
   - Repo: https://github.com/mcmaimas/Spotify
   - I listen to a lot of music and one of my favorite things to do is find new artists. Spotify does a good job of telling me the top n recommended artists, but it doesn't provide an easy way of making playlists with that information. This project fixes that by letting me search for an artist, and then generating/saving a playlist to my profile of the top n songs of the top 20 related artists
