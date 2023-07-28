@@ -2,7 +2,7 @@
 
 ## My Main Gig: [Rasgo](https://www.rasgoml.com/)
 
-<!-- ## My Current Nighttime Hustle: [99prompts](https://99prompts.io) -->
+## My Current Nighttime Hustle: [99prompts](https://99prompts.io)
 
 ## My Former Nighttime Hustle: [Fonbnk](https://www.fonbnk.com)
   - https://www.linkedin.com/company/fonbnk/
