@@ -1,7 +1,7 @@
 # Hello 👋 Welcome to my page
 
 ## My Main Gig: [Rasgo](https://www.rasgoml.com/)
-- Rasgo is a Data Analytics startup that brings GPT4 to your Datawarehouse (As long as that Datawarehouse is Snowflake or BigQuery).
+- Rasgo is a startup that brings GPT4 to your Datawarehouse
 
 ## My Current Hobby Project : [99prompts](https://99prompts.io)
 - There are a lot of tools out there for organizing and sharing prompts, but this was my take.
