@@ -1,4 +1,4 @@
-# Hello & Welcome to my page
+# Hey 👋
 
 ## My Main Gig: [Rasgo](https://www.rasgoml.com/)
 - We help enterprises build out and maintain a metadata layer for their cloud data warehouse. This metadata, along with their prompt, is fed into the LLM of their choosing to get results
