@@ -3,6 +3,7 @@
 ## My Current Gig: [Verily](https://verily.com/) (An Alphabet Company)
 
 ## My Previoes Gig: [Rasgo](https://www.rasgoml.com/)
+- Link to my [Rasgo github user](https://github.com/sam-rasgo) to see contribution stats
 - A product to "Chat with your cloud data warehouse experience"
 - Seed stage company the first year I was there. Series A for the next 3 years.
 
