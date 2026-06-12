@@ -1,9 +1,10 @@
 # Welcome to my page 👋
 
-## My Current Gig: [Verily](https://verily.com/) (An Alphabet Company)
+## My Latest Gig: [Figure AI](https://www.figure.ai/)
+- If it touches a browser or client of any sort, then it was put on my desk. This is mobile apps, VR apps, web apps, etc...
 
 ## My Previous Gig: [Rasgo](https://www.rasgoml.com/)
-- Link to my [Rasgo github user](https://github.com/sam-rasgo) to see contribution stats
+- Link to my [Rasgo github user](https://github.com/sam-rasgo) to see contribution stats (2023 & 2024)
 - A product to "Chat with your cloud data warehouse experience"
 - Seed stage company the first year I was there. Series A for the next 3 years.
 
